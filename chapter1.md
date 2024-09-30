@@ -1,4 +1,6 @@
-# Chapter 1
+# Chapter 1 
+
+Introduction and the anglerfish
 
 The deep sea is a mysterious and unexplored world, teeming with incredible creatures that have adapted to survive in the extreme conditions of the ocean depths. These animals are unlike anything found on land, with strange and otherworldly forms that have evolved over millions of years.
 
